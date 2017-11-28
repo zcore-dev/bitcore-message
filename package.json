@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message",
+  "name": "digibyte-message",
   "version": "1.0.3",
-  "description": "Bitcoin Messages for Bitcore",
+  "description": "Digibyte Messages for DigiByte.js",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/digibyte/digibyte-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "digibyte": "^0.13.7"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
