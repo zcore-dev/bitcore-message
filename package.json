@@ -23,7 +23,7 @@
     "url": "https://github.com/digibyte/digibyte-message.git"
   },
   "dependencies": {
-    "digibyte": "^0.13.7"
+    "digibyte": "^0.14.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
