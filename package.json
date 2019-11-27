@@ -23,7 +23,7 @@
     "url": "https://github.com/digibyte/digibyte-message.git"
   },
   "dependencies": {
-    "digibyte": "^0.15.6"
+    "bitcore-lib": "https://github.com/zcore-coin/zcoreapp-2.0-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
